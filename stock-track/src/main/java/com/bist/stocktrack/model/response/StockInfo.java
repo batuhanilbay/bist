@@ -1,4 +1,4 @@
-package com.bist.stocktrack.entity;
+package com.bist.stocktrack.model.response;
 
 import lombok.*;
 import java.io.Serializable;
