@@ -32,7 +32,7 @@ You need to install Redis.
 #### Retrieves available stocks within the Public API.
 
 ```http
-  GET http://localhost:8080/api/stockinfo
+  GET http://localhost:8080/api/stock-info
 
 ```
 
