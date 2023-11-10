@@ -1,7 +1,6 @@
 package com.bist.stocktrack.model.response;
 
 
-import com.bist.stocktrack.model.response.StockInfo;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
